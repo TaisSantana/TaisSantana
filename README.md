@@ -1,11 +1,9 @@
+# <p align="center"> 🦄💙Hello world!💙🦄 </p>
 
-👾🦄🦄🐾🪲🍕❇️#️⃣▶️🟣
-# <p align="center"> 👾💙Hello world!💙👾 </p>
-
-### <p align="center">🦄 I'm Taís Santana 🦄</p> 
+### <p align="center">🦋 I'm Taís Santana 🦋</p> 
 <!-- #### <p align="center"> I'm from Amazonas, Brazil, and I'm  passionate about programming and for the study of science.</p> -->
-#### <p align="center"> FullStack Developer </p>
-#### <p align="center"> Information Systems Undergraduate </p>
+#### <p align="center">✨ FullStack Developer ✨</p>
+#### <p align="center"> 🎮 Information Systems Undergraduate 👾</p>
 #### <p align="center">Pronoun: She/Her</p>
 
 
@@ -35,5 +33,5 @@
   <a href="https://www.instagram.com/tatahsantana_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/TaisSantana/TaisSantana/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/TaisSantana/blob/output/github-contribution-grid-snake.svg)-->
 
