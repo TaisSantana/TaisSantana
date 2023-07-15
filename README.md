@@ -2,7 +2,7 @@
 
 ### <p align="center">🦋 I'm Taís Santana 🦋</p> 
 #### <p align="center">✨ Back-end Developer ✨</p>
-#### <p align="center">✨ Front-end Enthusiast ✨</p>
+#### <p align="center">🎨 Front-end Enthusiast 🎨</p>
 #### <p align="center"> 🎮 Information Systems Undergraduate 👾</p>
 #### <p align="center">Pronoun: She/Her</p>
 
