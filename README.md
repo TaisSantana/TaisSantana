@@ -35,6 +35,5 @@
   <a href="https://www.instagram.com/tatahsantana_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
- <div align='center'>
-  <img margin='0 auto' alt='Snake animation' src='https://github.com/TaisSantana/TaisSantana/blob/output/github-contribution-grid-snake.svg' />
- </div>
+![Snake animation](https://github.com/TaisSantana/TaisSantana/blob/output/github-contribution-grid-snake.svg)
+
